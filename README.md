@@ -1,2 +1,2 @@
 # HTML-CSS
-Some experiments with html and css
+Some experiments with HTML and CSS 
